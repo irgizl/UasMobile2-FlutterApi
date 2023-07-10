@@ -37,7 +37,8 @@ Kelas : TI.21.A.3
 
 
 Running
-![Screenshot (110)](https://github.com/Freganovic/Aplikasi-mobile-API/assets/69451514/d738b768-ecfd-46db-aa3a-a88e4fddc5ce)
+![Screenshot (110)](![Screenshot (161)](https://github.com/irgizl/UasMobile2-FlutterApi/assets/116077048/684a94fa-424b-4926-a340-a3716092116e)
+)
 
 
 ![Screenshot (111)](https://github.com/Freganovic/Aplikasi-mobile-API/assets/69451514/5db6c416-3159-4cbf-8ee7-ca8bf3cca7a2)
