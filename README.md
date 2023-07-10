@@ -28,9 +28,7 @@ Dengan link : https://github.com/farizdotid/Daftar-api-lokal-indonesia
 
 Nama : Irgi Jaelani
 
-
 Nim : 312110618
-
 
 Kelas : TI.21.A.3
 
@@ -38,11 +36,12 @@ Kelas : TI.21.A.3
 
 Running
 
-(![Screenshot (161)](https://github.com/irgizl/UasMobile2-FlutterApi/assets/116077048/684a94fa-424b-4926-a340-a3716092116e)
-)
+![Screenshot (161)](https://github.com/irgizl/UasMobile2-FlutterApi/assets/116077048/684a94fa-424b-4926-a340-a3716092116e)
 
-(![Cuplikan layar 2023-07-11 003323](https://github.com/irgizl/UasMobile2-FlutterApi/assets/116077048/d27caff8-0129-4920-8d2a-585ba0438a72)
-)
+
+![Cuplikan layar 2023-07-11 003323](https://github.com/irgizl/UasMobile2-FlutterApi/assets/116077048/d27caff8-0129-4920-8d2a-585ba0438a72)
+
+
 
 
 
